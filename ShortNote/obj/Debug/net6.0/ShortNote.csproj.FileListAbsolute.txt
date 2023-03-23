@@ -1,0 +1,15 @@
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\bin\Debug\net6.0\ShortNote.exe
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\bin\Debug\net6.0\ShortNote.deps.json
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\bin\Debug\net6.0\ShortNote.runtimeconfig.json
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\bin\Debug\net6.0\ShortNote.dll
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\bin\Debug\net6.0\ShortNote.pdb
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.csproj.AssemblyReference.cache
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.AssemblyInfoInputs.cache
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.AssemblyInfo.cs
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.csproj.CoreCompileInputs.cache
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.dll
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\refint\ShortNote.dll
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.pdb
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ShortNote.genruntimeconfig.cache
+C:\Users\bs1092\Desktop\DOT.NET\ConsoleApp\ShortNote\ShortNote\obj\Debug\net6.0\ref\ShortNote.dll
